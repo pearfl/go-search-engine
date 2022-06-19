@@ -2,6 +2,8 @@
 
 go-search-engine是咱说的都对团队参加第三届字节跳动青训营开发的搜索引擎大作业项目。
 
+参考文档：https://oyk9eorblt.feishu.cn/docx/doxcn1HSZDhPpTF5F6meovzORad
+
 **实现的功能模块，包括：**
 
 1、基本功能
